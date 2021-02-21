@@ -7,6 +7,14 @@ Spark is now [mirrored on GitHub](https://github.com/apache/spark)
 at the following repository location:
 
     git clone git://github.com/apache/spark.git
+    
+    
+    ### make some changes
+    
+    ### optimizing the features
+    
+    
+    ### adding new features..
 
 Other information including documentation is available on the Spark website: 
 [http://spark.apache.org/](http://spark.apache.org/)
